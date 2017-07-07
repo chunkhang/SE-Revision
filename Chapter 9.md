@@ -32,4 +32,4 @@
 
 ### Project scheduling process
 
-![scheduling process](img/Scheduling.png)
+![scheduling process](image/Scheduling.png)
